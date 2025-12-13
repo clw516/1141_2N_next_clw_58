@@ -1,5 +1,0 @@
-{
-  "/(root)/page": "app/(root)/page.js",
-  "/demo/shop_58/supa/[category]/page": "app/demo/shop_58/supa/[category]/page.js",
-  "/demo/shop_58/supa/page": "app/demo/shop_58/supa/page.js"
-}
