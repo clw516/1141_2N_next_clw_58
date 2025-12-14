@@ -1,5 +1,5 @@
 import React from 'react';
-import Wrapper from '../assets/wrappers/Navbar_58';
+import Wrapper from '../_assets/wrapper/Navbar_58';
 //import { Link } from 'react-router-dom'
 import Link from 'next/link';
 
@@ -48,7 +48,9 @@ function Navbar_58() {
                       <Link href='/supa_58'>W6-tuhrefrials_58</Link>
                     </li>
                     <li className='menu-item'>
-                      <Link href='/localjson2_58'>W7-BlogLocalJson2_58</Link>
+                      <Link href='/demo/blog_58/localjson2_58'>
+                        W7-BlogLocalJson2_58
+                      </Link>
                     </li>
                     <li className='menu-item'>
                       <Link href='/demo/shop_58/node'>W11-ShopNode_58</Link>
